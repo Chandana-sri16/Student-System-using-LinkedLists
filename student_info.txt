@@ -1,0 +1,33 @@
+
+                        -------------------------    
+                        | Student name :   Chan  
+                        | Roll number  :   12  
+                        | College name :   Heal  
+                        | Email ID :       chan@manish  
+                        | Course :         Ai  
+                        -------------------------
+                             
+                        -------------------------    
+                        | Student name :   Nikhil  
+                        | Roll number  :   3  
+                        | College name :   Heal  
+                        | Email ID :       nikki@gmail.com  
+                        | Course :         Ai  
+                        -------------------------
+                             
+                        -------------------------    
+                        | Student name :   Manish  
+                        | Roll number  :   2  
+                        | College name :   Heal  
+                        | Email ID :       manish@gmail.com  
+                        | Course :         Ai  
+                        -------------------------
+                             
+                        -------------------------    
+                        | Student name :   Ron  
+                        | Roll number  :   4  
+                        | College name :   Heal  
+                        | Email ID :       ron@gmail.com  
+                        | Course :         Ai  
+                        -------------------------
+                             
